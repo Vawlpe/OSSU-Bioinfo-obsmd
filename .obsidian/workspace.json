@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "65c7bf854003b690",
+    "type": "split",
+    "children": [
+      {
+        "id": "965535fbeb719b56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65ec5ab8b8960bf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023/05/27/27.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "fa1d6942005fa87a"
+          }
+        ]
+      },
+      {
+        "id": "dac12f6d4d10b793",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2af983b25199958",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023/05/27/27.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "fa1d6942005fa87a"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b5ba4f86ae2312f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4180595e1c73fce1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec95ce352969a606",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe1d0602d37644f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e95d233efad7c114",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "8720963e2bbbceb8",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 223.00418853759766
+  },
+  "right": {
+    "id": "640ce7faa9c768df",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc97fa45f1197155",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dfee4bed8ce3343",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023/05/27/27.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4cdb02ed39015cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023/05/27/27.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60670ed6b1f4714f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7e61720f5b6fbeb4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023/05/27/27.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b2af983b25199958",
+  "lastOpenFiles": [
+    "2023/05/27/27.md",
+    "2023/05/29/29.md",
+    "attachments/Pasted image 20230529004113.png",
+    "attachments/Pasted image 20230529004046.png",
+    "attachments/Pasted image 20230529003959.png",
+    "attachments/Pasted image 20230529003932.png",
+    "attachments",
+    "2023/05/28/28.md",
+    "2023/05/29",
+    "2023/05/26/26.md",
+    "2023/05/05.md",
+    "README.md",
+    "2023/05/28/attachments/Pasted image 20230528164352.png",
+    "2023/2023.md",
+    "2023/05/28/attachments/Pasted image 20230528185530.png",
+    "2023/05/28/attachments/Pasted image 20230528170656.png",
+    "2023/05/28/attachments/Pasted image 20230528165317.png",
+    "2023/05/28/attachments/Pasted image 20230528164406.png",
+    "2023/05/28/attachments/02 - Propanol.png",
+    "2023/05/28/attachments",
+    "2023/05/28",
+    "2023/05/27/attachments",
+    "2023/05/27",
+    "2023/05/26",
+    "Ava - Getting Started.md",
+    "Untitled.md",
+    "2023/05",
+    "2023"
+  ]
+}
