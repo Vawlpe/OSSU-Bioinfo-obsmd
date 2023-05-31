@@ -6,9 +6,10 @@
       {
         "id": "965535fbeb719b56",
         "type": "tabs",
+        "dimension": 38.4995064165844,
         "children": [
           {
-            "id": "65ec5ab8b8960bf8",
+            "id": "b451f4c908f61306",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,13 +19,14 @@
                 "source": true
               }
             },
-            "group": "fa1d6942005fa87a"
+            "group": "1f7a9c8caff67133"
           }
         ]
       },
       {
         "id": "dac12f6d4d10b793",
         "type": "tabs",
+        "dimension": 61.5004935834156,
         "children": [
           {
             "id": "b2af983b25199958",
@@ -37,7 +39,17 @@
                 "source": false
               }
             },
-            "group": "fa1d6942005fa87a"
+            "group": "1f7a9c8caff67133"
+          },
+          {
+            "id": "664acf271205008d",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://aminoacidsguide.com/Ser.html"
+              }
+            }
           }
         ]
       }
@@ -97,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.00418853759766
+    "width": 223.00418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "640ce7faa9c768df",
@@ -178,6 +191,12 @@
   "active": "b2af983b25199958",
   "lastOpenFiles": [
     "2023/05/27/27.md",
+    "2023/05/26/26.md",
+    "2023/05/27/attachments/Pasted image 20230529172715.png",
+    "2023/05/27/attachments/Pasted image 20230529233210.png",
+    "2023/05/27/attachments/Pasted image 20230529172720.png",
+    "Ketcher/test.ket",
+    "Ketcher",
     "2023/05/29/29.md",
     "attachments/Pasted image 20230529004113.png",
     "attachments/Pasted image 20230529004046.png",
@@ -186,16 +205,12 @@
     "attachments",
     "2023/05/28/28.md",
     "2023/05/29",
-    "2023/05/26/26.md",
     "2023/05/05.md",
     "README.md",
     "2023/05/28/attachments/Pasted image 20230528164352.png",
     "2023/2023.md",
     "2023/05/28/attachments/Pasted image 20230528185530.png",
     "2023/05/28/attachments/Pasted image 20230528170656.png",
-    "2023/05/28/attachments/Pasted image 20230528165317.png",
-    "2023/05/28/attachments/Pasted image 20230528164406.png",
-    "2023/05/28/attachments/02 - Propanol.png",
     "2023/05/28/attachments",
     "2023/05/28",
     "2023/05/27/attachments",
@@ -203,7 +218,6 @@
     "2023/05/26",
     "Ava - Getting Started.md",
     "Untitled.md",
-    "2023/05",
-    "2023"
+    "2023/05"
   ]
 }

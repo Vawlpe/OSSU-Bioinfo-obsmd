@@ -43,5 +43,39 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": []
+  "treeData": [
+    {
+      "id": "e07da36958046bcf",
+      "parent": 0,
+      "droppable": true,
+      "text": "Lecture 1.2 | Assignment 1.2: Polar and non-polar molecules | Pre-7.01 Courseware | MIT Open Learning Library",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "a96cdb8ad6192137",
+      "parent": 0,
+      "droppable": true,
+      "text": "File Finder · GitHub",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "664acf271205008d",
+      "parent": 0,
+      "droppable": true,
+      "text": "Serine - Ser - structure, properties, function, benefits",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
 }
